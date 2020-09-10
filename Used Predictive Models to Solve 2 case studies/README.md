@@ -1,4 +1,8 @@
 
+Course: Predictive Modelling:
+
+### Skills: 
+Linear Regression, Logistic Regression, LDA
 
 ### Problem 1: Linear Regression
 
