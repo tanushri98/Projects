@@ -1,4 +1,4 @@
-## Executive Summaruy
+## Executive Summary
 
 * This report documents the implementation and results of Exploratory Data Analysis proof of concept applied on YouTube data to promote a Fashion, Beauty and lifestyle channel.
 
