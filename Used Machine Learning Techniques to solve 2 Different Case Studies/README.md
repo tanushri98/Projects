@@ -13,7 +13,7 @@ Data Preparation:
 Modelling:
 1. Apply Logistic Regression and LDA (linear discriminant analysis).
 2. Apply KNN Model and Naïve Bayes Model. Interpret the results.
-3. Model Tuning, Bagging (Random Forest should be applied for Bagging) and Boosting.
+3. Model Tuning, Bagging and Boosting.
 4. Performance Metrics: Check the performance of Predictions on Train and Test sets using Accuracy, Confusion Matrix, Plot ROC curve and get ROC_AUC score for each model. Final Model: Compare the models and write inference which model is best/optimized.
 
 
