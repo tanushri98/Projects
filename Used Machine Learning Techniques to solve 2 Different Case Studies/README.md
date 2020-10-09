@@ -29,6 +29,9 @@ President John F. Kennedy in 1961
 President Richard Nixon in 1973
 
 Find the number of characters, words and sentences for the mentioned documents. 
+
 Remove all the stopwords from all the three speeches. 
+
 Which word occurs the most number of times in his inaugural address for each president? Mention the top three words. (after removing the stopwords) 
+
 Plot the word cloud of each of the speeches of the variable. (after removing the stopwords)
